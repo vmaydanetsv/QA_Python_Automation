@@ -1,11 +1,19 @@
 # QA_Python_Automation
+
 Технологии (Tech Stack)
+
 Python 3
+
 pytest
+
 Selenium WebDriver
+
 Git / GitHub
+
 PyCharm
+
 Google Chrome
+
 QA_Python_Automation/ 
 ├── tests/ 
 │ ├── test_login.py 
